@@ -1,1 +1,15 @@
-
+<xml>
+  <p1>"Название проекта * (Project)"</p1>
+  <p2>"Уникальный номер отчета * (ID)"</p2>
+  <p3>"Дата создания * (Created Date)"</p3>
+  <p4>"Дата обновления (Update Date)"</p4>
+  <p5>"Краткое описание * (Summary, Title, Subject, Synopsis)"</p5>
+  <p6>"Текущий статус * (Status)"</p6>
+  <p7>"Резолюция (Resolution)"</p7>
+  <p8>"Приоритет (Priority)"</p8>
+  <p9>"Важность (Severity)"</p9>
+  <p10>"Тип инцидента (Incident Type)"</p10>
+  <p11>"Окружение (Environment)"</p11>
+  <p12>"Описание * (Description)"</p12>
+  <p13>"Воспроизводимость (reproducible, reproducibility)"</p13>
+  <p14>"Шаги воспроизведения (steps to reproduce, STR)"</p14>
