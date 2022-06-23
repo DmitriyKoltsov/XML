@@ -1,6 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <xml>
 	<p1>"name":"Dmitriy"</p1>
 	<p2>"surname":"Koltsov"</p2>
 	<p3>"age":"37"</p3>
 	<p4>"pets":"0"</p4>
-	<p5>"income":"100500"</p5> 
+	<p5>"income":"100500"</p5>
+</xml>
